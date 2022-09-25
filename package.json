@@ -1,0 +1,24 @@
+{
+  "name": "auto-typewriter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmanmajeed/Typewriter-JS.git"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "auto-typing"
+  ],
+  "author": "rahman-majed <[rahmanmajeed46@gmail.com](mailto:rahmanmajeed46@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmanmajeed/Typewriter-JS/issues"
+  },
+  "homepage": "https://github.com/rahmanmajeed/Typewriter-JS#readme"
+}
